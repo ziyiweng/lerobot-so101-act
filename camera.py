@@ -1,7 +1,7 @@
 python - <<'EOF'
 import cv2
 
-idx = 0 #the index of camera
+idx = 0
 
 cap = cv2.VideoCapture(idx)
 
