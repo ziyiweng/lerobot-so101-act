@@ -5,3 +5,8 @@ lerobot-teleoperate \
   --teleop.type=so101_leader \
   --teleop.port=/dev/tty.usbmodem5B415335771 \
   --teleop.id=my_leader 
+
+’‘’
+optional
+  --display_data=True
+‘’‘
