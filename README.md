@@ -113,7 +113,7 @@ I filmed 15 autonomous ACT trials on the real arm. In **13 of 15** the cube ende
 
 ## Links
 
-- Models and datasets on Hugging Face: https://huggingface.co/ziyiweng
+- Models and datasets (Hugging Face collection): https://huggingface.co/collections/ziyiweng/so-101-imitation-learning-act-smolvla
 - SmolVLA code: https://github.com/ziyiweng/smolvla-so101
 
 ## Acknowledgements
